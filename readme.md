@@ -71,7 +71,7 @@ sudo apt install android-sdk-platform-tools-common android-tools-adb -y
 Now that ADB is installed, follow these instructions:
 1. launch Android Studio and load into any project or start a new one.
 2. Open the device manager window by choosing "Run -> Select Device..." from the top menu and then choosing "Device Manager".
-3. Select the "Physical Device Tab".
+3. Select the "Physical Device" tab.
 4. Plug in your physical Android device (with USB debugging (Developer Mode/Options) already enabled) with a USB cable.
     - Note: If you need help with turning on Developer Mode/Options for your device, use Google to search for turning on developer mode for your specific version of Android.
 5. A RSA ID message will pop-up on the phone screen, accept this message.
