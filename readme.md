@@ -74,6 +74,6 @@ Now that ADB is installed, follow these instructions:
 3. Select the "Physical Device" tab.
 4. Plug in your physical Android device (with USB debugging (Developer Mode/Options) already enabled) with a USB cable.
     - Note: If you need help with turning on Developer Mode/Options for your device, use Google to search for turning on developer mode for your specific version of Android.
-5. A RSA ID message will pop-up on the phone screen, accept this message.
+5. An RSA ID message will pop-up on the phone screen, accept this message.
 
 You are now ready to run Android Studio with the physical device you have plugged in.
